@@ -1,4 +1,4 @@
-package com.digital.crud.saladereuniao.saladereuniao;
+package com.digital.crud.salareuniao.saladereuniao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

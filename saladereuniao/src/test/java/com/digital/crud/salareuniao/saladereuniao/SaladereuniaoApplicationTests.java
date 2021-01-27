@@ -1,4 +1,4 @@
-package com.digital.crud.saladereuniao.saladereuniao;
+package com.digital.crud.salareuniao.saladereuniao;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
