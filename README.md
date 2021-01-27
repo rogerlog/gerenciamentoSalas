@@ -41,3 +41,9 @@ https://www.npmjs.com/
 - Teste da api no [Postman](https://www.postman.com/)
 
 ![](/.img/dev1.png)
+
+- Lista das Reuniões
+
+![](/.img/dev2.png)
+
+![](/.img/dev3.png)
