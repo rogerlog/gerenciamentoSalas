@@ -12,7 +12,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-@RestController @CrossOrigin(origins = "http://localhost:8080")
+@RestController @CrossOrigin(origins = "http://localhost:4200")
 @RequestMapping("/api/v1")
 public class RoomController {
 

@@ -34,6 +34,8 @@ https://nodejs.org/en/
 
 https://www.npmjs.com/
 
+[*Utilizei este tutorial para instalação no Manjaro*](https://www.tipscode.com.br/instalando-nodejs-no-manjaro/ )
+
 ##### Imagens da aplicação
 
 - Teste da api no [Postman](https://www.postman.com/)
