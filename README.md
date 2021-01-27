@@ -38,4 +38,4 @@ https://www.npmjs.com/
 
 - Teste da api no [Postman](https://www.postman.com/)
 
-[](/.img/dev1.png)
+![](/.img/dev1.png)
